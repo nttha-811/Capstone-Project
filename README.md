@@ -1,6 +1,6 @@
-# STAT 499: Mixed Data Sampling (MIDAS) Nowcasting for Canadian CPI
+# Capstone project: Nowcasting and Forecasting Canadian Inflation Using Mixed-Frequency Economic and Financial Indicators
 
-This repository implements Mixed Data Sampling (MIDAS) regression models and benchmark methods (ARIMA, ARIMAX, VAR, OLS, Random Forest, Gradient Boosting) to nowcast monthly Canadian Consumer Price Index (CPI) inflation using high-frequency weekly economic and financial predictors.
+This repository implements nowcasting and forecasting of Canadian inflation using monthly inflation data as the target variable and higher-frequency predictors such as oil prices, exchange rates, interest rates, and commodity prices.
 
 ## Project Structure
 
